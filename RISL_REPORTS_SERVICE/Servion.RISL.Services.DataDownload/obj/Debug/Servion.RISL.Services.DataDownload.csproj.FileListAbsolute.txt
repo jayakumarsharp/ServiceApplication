@@ -1,0 +1,32 @@
+D:\Servion Projects\RISL\RISL_IN1_18_0066_01\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataDownload\bin\Debug\RISLDataDownload.exe.config
+D:\Servion Projects\RISL\RISL_IN1_18_0066_01\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataDownload\bin\Debug\RISLDataDownload.exe
+D:\Servion Projects\RISL\RISL_IN1_18_0066_01\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataDownload\bin\Debug\RISLDataDownload.pdb
+D:\Servion Projects\RISL\RISL_IN1_18_0066_01\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataDownload\bin\Debug\log4net.dll
+D:\Servion Projects\RISL\RISL_IN1_18_0066_01\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataDownload\bin\Debug\Servion.Cca.Utilites.CallDataReader.dll
+D:\Servion Projects\RISL\RISL_IN1_18_0066_01\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataDownload\bin\Debug\Servion.Cca.Utilites.FileCallDataImporter.dll
+D:\Servion Projects\RISL\RISL_IN1_18_0066_01\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataDownload\bin\Debug\Servion.Cca.Utilites.FileCallDataReader.dll
+D:\Servion Projects\RISL\RISL_IN1_18_0066_01\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataDownload\bin\Debug\Servion.Cca.Utilites.FtpCallDataReader.dll
+D:\Servion Projects\RISL\RISL_IN1_18_0066_01\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataDownload\bin\Debug\Servion.Cca.Utilities.CommonProperties.dll
+D:\Servion Projects\RISL\RISL_IN1_18_0066_01\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataDownload\bin\Debug\Servion.Cca.Utilties.CallDataImporter.dll
+D:\Servion Projects\RISL\RISL_IN1_18_0066_01\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataDownload\obj\Debug\Servion.RISL.Services.DataDownload.csprojResolveAssemblyReference.cache
+D:\Servion Projects\RISL\RISL_IN1_18_0066_01\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataDownload\obj\Debug\Servion.RISL.Services.DataDownload.DataDownloadService.resources
+D:\Servion Projects\RISL\RISL_IN1_18_0066_01\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataDownload\obj\Debug\Servion.RISL.Services.DataDownload.DataDownloadServiceInstaller.resources
+D:\Servion Projects\RISL\RISL_IN1_18_0066_01\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataDownload\obj\Debug\Servion.RISL.Services.DataDownload.csproj.GenerateResource.Cache
+D:\Servion Projects\RISL\RISL_IN1_18_0066_01\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataDownload\obj\Debug\RISLDataDownload.exe
+D:\Servion Projects\RISL\RISL_IN1_18_0066_01\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataDownload\obj\Debug\RISLDataDownload.pdb
+D:\Servion Projects\RISL Latest\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataDownload\bin\Debug\RISLDataDownload.exe.config
+D:\Servion Projects\RISL Latest\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataDownload\bin\Debug\RISLDataDownload.exe
+D:\Servion Projects\RISL Latest\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataDownload\bin\Debug\RISLDataDownload.pdb
+D:\Servion Projects\RISL Latest\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataDownload\bin\Debug\log4net.dll
+D:\Servion Projects\RISL Latest\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataDownload\bin\Debug\Servion.Cca.Utilites.CallDataReader.dll
+D:\Servion Projects\RISL Latest\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataDownload\bin\Debug\Servion.Cca.Utilites.FileCallDataImporter.dll
+D:\Servion Projects\RISL Latest\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataDownload\bin\Debug\Servion.Cca.Utilites.FileCallDataReader.dll
+D:\Servion Projects\RISL Latest\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataDownload\bin\Debug\Servion.Cca.Utilites.FtpCallDataReader.dll
+D:\Servion Projects\RISL Latest\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataDownload\bin\Debug\Servion.Cca.Utilities.CommonProperties.dll
+D:\Servion Projects\RISL Latest\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataDownload\bin\Debug\Servion.Cca.Utilties.CallDataImporter.dll
+D:\Servion Projects\RISL Latest\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataDownload\obj\Debug\Servion.RISL.Services.DataDownload.csprojResolveAssemblyReference.cache
+D:\Servion Projects\RISL Latest\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataDownload\obj\Debug\Servion.RISL.Services.DataDownload.DataDownloadService.resources
+D:\Servion Projects\RISL Latest\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataDownload\obj\Debug\Servion.RISL.Services.DataDownload.DataDownloadServiceInstaller.resources
+D:\Servion Projects\RISL Latest\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataDownload\obj\Debug\Servion.RISL.Services.DataDownload.csproj.GenerateResource.Cache
+D:\Servion Projects\RISL Latest\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataDownload\obj\Debug\RISLDataDownload.exe
+D:\Servion Projects\RISL Latest\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataDownload\obj\Debug\RISLDataDownload.pdb

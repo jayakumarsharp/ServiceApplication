@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="D:\Servion Projects\AUF_IN1_16-17_0491_01\DEVELOPMENT\COD\Reports\MSMQ_Service\obj\Debug\Package\PackageTmp" managedRuntimeVersion="v4.0" />
+  <setAcl path="D:\Servion Projects\AUF_IN1_16-17_0491_01\DEVELOPMENT\COD\Reports\MSMQ_Service\obj\Debug\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="D:\Servion Projects\AUF_IN1_16-17_0491_01\DEVELOPMENT\COD\Reports\MSMQ_Service\obj\Debug\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>

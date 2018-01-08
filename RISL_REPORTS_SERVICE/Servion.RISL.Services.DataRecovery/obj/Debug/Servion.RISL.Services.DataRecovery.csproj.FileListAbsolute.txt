@@ -1,0 +1,27 @@
+D:\Servion Projects\RISL\RISL_IN1_18_0066_01\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataRecovery\bin\Debug\RISLFileReader.exe.config
+D:\Servion Projects\RISL\RISL_IN1_18_0066_01\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataRecovery\bin\Debug\RISLFileReader.exe
+D:\Servion Projects\RISL\RISL_IN1_18_0066_01\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataRecovery\bin\Debug\RISLFileReader.pdb
+D:\Servion Projects\RISL\RISL_IN1_18_0066_01\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataRecovery\bin\Debug\log4net.dll
+D:\Servion Projects\RISL\RISL_IN1_18_0066_01\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataRecovery\bin\Debug\RISLDataParser.dll
+D:\Servion Projects\RISL\RISL_IN1_18_0066_01\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataRecovery\bin\Debug\Servion.CCA.DatabaseApplicationBlocks.dll
+D:\Servion Projects\RISL\RISL_IN1_18_0066_01\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataRecovery\bin\Debug\Oracle.DataAccess.dll
+D:\Servion Projects\RISL\RISL_IN1_18_0066_01\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataRecovery\bin\Debug\RISLDataParser.pdb
+D:\Servion Projects\RISL\RISL_IN1_18_0066_01\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataRecovery\obj\Debug\Servion.RISL.Services.DataRecovery.csprojResolveAssemblyReference.cache
+D:\Servion Projects\RISL\RISL_IN1_18_0066_01\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataRecovery\obj\Debug\Servion.RISL.Services.DataRecovery.RecoveryService.resources
+D:\Servion Projects\RISL\RISL_IN1_18_0066_01\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataRecovery\obj\Debug\Servion.RISL.Services.DataRecovery.RecoveryServiceInstaller.resources
+D:\Servion Projects\RISL\RISL_IN1_18_0066_01\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataRecovery\obj\Debug\Servion.RISL.Services.DataRecovery.csproj.GenerateResource.Cache
+D:\Servion Projects\RISL\RISL_IN1_18_0066_01\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataRecovery\obj\Debug\RISLFileReader.exe
+D:\Servion Projects\RISL\RISL_IN1_18_0066_01\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataRecovery\obj\Debug\RISLFileReader.pdb
+D:\Servion Projects\RISL Latest\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataRecovery\bin\Debug\RISLFileReader.exe.config
+D:\Servion Projects\RISL Latest\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataRecovery\bin\Debug\RISLFileReader.exe
+D:\Servion Projects\RISL Latest\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataRecovery\bin\Debug\RISLFileReader.pdb
+D:\Servion Projects\RISL Latest\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataRecovery\bin\Debug\log4net.dll
+D:\Servion Projects\RISL Latest\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataRecovery\bin\Debug\RISLDataParser.dll
+D:\Servion Projects\RISL Latest\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataRecovery\bin\Debug\Servion.CCA.DatabaseApplicationBlocks.dll
+D:\Servion Projects\RISL Latest\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataRecovery\bin\Debug\RISLDataParser.pdb
+D:\Servion Projects\RISL Latest\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataRecovery\obj\Debug\Servion.RISL.Services.DataRecovery.csprojResolveAssemblyReference.cache
+D:\Servion Projects\RISL Latest\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataRecovery\obj\Debug\Servion.RISL.Services.DataRecovery.RecoveryService.resources
+D:\Servion Projects\RISL Latest\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataRecovery\obj\Debug\Servion.RISL.Services.DataRecovery.RecoveryServiceInstaller.resources
+D:\Servion Projects\RISL Latest\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataRecovery\obj\Debug\Servion.RISL.Services.DataRecovery.csproj.GenerateResource.Cache
+D:\Servion Projects\RISL Latest\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataRecovery\obj\Debug\RISLFileReader.exe
+D:\Servion Projects\RISL Latest\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataRecovery\obj\Debug\RISLFileReader.pdb

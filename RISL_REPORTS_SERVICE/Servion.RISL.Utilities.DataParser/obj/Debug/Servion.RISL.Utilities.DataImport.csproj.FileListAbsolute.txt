@@ -1,0 +1,7 @@
+D:\Servion Projects\RISL Latest\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Utilities.DataParser\bin\Debug\RISLDataParser.dll
+D:\Servion Projects\RISL Latest\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Utilities.DataParser\bin\Debug\RISLDataParser.pdb
+D:\Servion Projects\RISL Latest\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Utilities.DataParser\bin\Debug\log4net.dll
+D:\Servion Projects\RISL Latest\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Utilities.DataParser\bin\Debug\Servion.CCA.DatabaseApplicationBlocks.dll
+D:\Servion Projects\RISL Latest\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Utilities.DataParser\obj\Debug\Servion.RISL.Utilities.DataImport.csprojResolveAssemblyReference.cache
+D:\Servion Projects\RISL Latest\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Utilities.DataParser\obj\Debug\RISLDataParser.dll
+D:\Servion Projects\RISL Latest\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Utilities.DataParser\obj\Debug\RISLDataParser.pdb

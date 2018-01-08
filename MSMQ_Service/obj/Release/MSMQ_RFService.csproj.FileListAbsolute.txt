@@ -1,0 +1,40 @@
+D:\Kbank\Kbank_Service\MSMQ_Service\MSMQ_Service\bin\XSD\IvrMainSchema.xsd
+D:\Kbank\Kbank_Service\MSMQ_Service\MSMQ_Service\bin\MSMQ_Service.dll
+D:\Kbank\Kbank_Service\MSMQ_Service\MSMQ_Service\bin\MSMQ_Service.pdb
+D:\Kbank\Kbank_Service\MSMQ_Service\MSMQ_Service\bin\log4net.dll
+D:\Kbank\Kbank_Service\MSMQ_Service\MSMQ_Service\obj\Release\MSMQ_Service.dll
+D:\Kbank\Kbank_Service\MSMQ_Service\MSMQ_Service\obj\Release\MSMQ_Service.pdb
+D:\KBANK_Production\Final_Code\MSMQ_Service\bin\XSD\IvrMainSchema.xsd
+D:\KBANK_Production\Final_Code\MSMQ_Service\bin\MSMQ_Service.dll
+D:\KBANK_Production\Final_Code\MSMQ_Service\bin\MSMQ_Service.pdb
+D:\KBANK_Production\Final_Code\MSMQ_Service\bin\log4net.dll
+D:\KBANK_Production\Final_Code\MSMQ_Service\obj\Release\ResolveAssemblyReference.cache
+D:\KBANK_Production\Final_Code\MSMQ_Service\obj\Release\MSMQ_Service.dll
+D:\KBANK_Production\Final_Code\MSMQ_Service\obj\Release\MSMQ_Service.pdb
+D:\Servion Projects\IDFC\DevelopmentCode\MSMQ_Service\MSMQ_Service\bin\XSD\IvrMainSchema.xsd
+D:\Servion Projects\IDFC\DevelopmentCode\MSMQ_Service\MSMQ_Service\bin\MSMQ_Service.dll
+D:\Servion Projects\IDFC\DevelopmentCode\MSMQ_Service\MSMQ_Service\bin\MSMQ_Service.pdb
+D:\Servion Projects\IDFC\DevelopmentCode\MSMQ_Service\MSMQ_Service\bin\log4net.dll
+D:\Servion Projects\IDFC\DevelopmentCode\MSMQ_Service\MSMQ_Service\obj\Release\MSMQ_Service.dll
+D:\Servion Projects\IDFC\DevelopmentCode\MSMQ_Service\MSMQ_Service\obj\Release\MSMQ_Service.pdb
+D:\Servion Projects\TESCO\MSMQ_Service\bin\XSD\IvrMainSchema.xsd
+D:\Servion Projects\TESCO\MSMQ_Service\bin\MSMQ_Service.dll
+D:\Servion Projects\TESCO\MSMQ_Service\bin\MSMQ_Service.pdb
+D:\Servion Projects\TESCO\MSMQ_Service\bin\log4net.dll
+D:\Servion Projects\TESCO\MSMQ_Service\obj\Release\MSMQ_Service.dll
+D:\Servion Projects\TESCO\MSMQ_Service\obj\Release\MSMQ_Service.pdb
+C:\Users\venkadesh.m\Desktop\MSMQ_Service\MSMQ_Service\bin\XSD\IvrMainSchema.xsd
+C:\Users\venkadesh.m\Desktop\MSMQ_Service\MSMQ_Service\bin\MSMQ_Service.dll.config
+C:\Users\venkadesh.m\Desktop\MSMQ_Service\MSMQ_Service\bin\MSMQ_Service.dll
+C:\Users\venkadesh.m\Desktop\MSMQ_Service\MSMQ_Service\bin\MSMQ_Service.pdb
+C:\Users\venkadesh.m\Desktop\MSMQ_Service\MSMQ_Service\bin\log4net.dll
+C:\Users\venkadesh.m\Desktop\MSMQ_Service\MSMQ_Service\obj\Release\MSMQ_Service.dll
+C:\Users\venkadesh.m\Desktop\MSMQ_Service\MSMQ_Service\obj\Release\MSMQ_Service.pdb
+D:\shard\MSMQ_Service\MSMQ_Service\bin\XSD\IvrMainSchema.xsd
+D:\shard\MSMQ_Service\MSMQ_Service\bin\MSMQ_Service.dll.config
+D:\shard\MSMQ_Service\MSMQ_Service\bin\MSMQ_Service.dll
+D:\shard\MSMQ_Service\MSMQ_Service\bin\MSMQ_Service.pdb
+D:\shard\MSMQ_Service\MSMQ_Service\bin\log4net.dll
+D:\shard\MSMQ_Service\MSMQ_Service\obj\Release\MSMQ_RFService.csprojResolveAssemblyReference.cache
+D:\shard\MSMQ_Service\MSMQ_Service\obj\Release\MSMQ_Service.dll
+D:\shard\MSMQ_Service\MSMQ_Service\obj\Release\MSMQ_Service.pdb

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="Default Web Site\MSMQ1" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\Servion\ Projects\\AUF_IN1_16-17_0491_01\\DEVELOPMENT\\COD\\Reports\\MSMQ_Service\\obj\\Debug\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^D:\\Servion\ Projects\\AUF_IN1_16-17_0491_01\\DEVELOPMENT\\COD\\Reports\\MSMQ_Service\\obj\\Debug\\Package\\PackageTmp$" />
+  </parameter>
+</parameters>

@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="IvrMainSchema" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  
+  <xs:element name="IVRREPORTDATA">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="CALLINFO" minOccurs="1" maxOccurs="1">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="APP_ID" type="Required" />
+              <xs:element name="APP_NAME" type="Required" />
+			  <xs:element name="CALLID" type="Required" />
+			   <xs:element name="UNIQUE_ID" type="Required" />
+              <xs:element name="SESSION_ID" type="Required" />
+              <xs:element name="SERVER_IP" type="IPAddress" />
+              <xs:element name="ANI" type="xs:string" />
+              <xs:element name="DNIS" type="xs:string" />
+              <xs:element name="CALL_START_TIME" type="DateTime" />
+              <xs:element name="CALL_END_TIME" type="DateTime" />
+			  <xs:element name="SURVEY_ID" type="xs:string" />
+			  <xs:element name="SAMPLE_ID" type="xs:string" />
+			  <xs:element name="SAMPLE_NAME" type="xs:string" />
+			   <xs:element name="SURVEY_MODE" type="xs:string" />
+			   <xs:element name="QUESTION_TYPE_ID" type="xs:string" />
+			   <xs:element name="QUESTION_TYPE" type="xs:string" />
+			   <xs:element name="QUESTION_SET_NAME" type="xs:string" />
+			   <xs:element name="SURVEY_STATUS" type="xs:string" />
+			   <xs:element name="CAMPAIGN_NAME" type="xs:string" />
+			   <xs:element name="DEPT_ID" type="xs:string" />
+			   <xs:element name="DEPT_NAME" type="xs:string" />
+			   <xs:element name="LANG_ID" type="xs:string" />
+			   <xs:element name="LANG_CODE" type="xs:string" />
+			   <xs:element name="INPUT_MODE" type="xs:string" />
+			   <xs:element name="PHRASE_TYPE" type="xs:string" />
+			   <xs:element name="DISPOSITION_CODE" type="xs:string" />
+			   <xs:element name="CALL_END_TYPE" type="xs:string" />
+              <xs:element name="RESERVE1" type="xs:string"/>
+              <xs:element name="RESERVE2" type="xs:string"/>
+              <xs:element name="RESERVE3" type="xs:string"/>
+              <xs:element name="RESERVE4" type="xs:string"/>
+              <xs:element name="RESERVE5" type="xs:string"/>
+              <xs:element name="RESERVE6" type="xs:string"/>
+              <xs:element name="RESERVE7" type="xs:string"/>
+              <xs:element name="RESERVE8" type="xs:string"/>
+              <xs:element name="RESERVE9" type="xs:string"/>
+              <xs:element name="RESERVE10" type="xs:string"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+
+
+        <xs:element name="ANNOUNCEMENT_DETAIL" minOccurs="0" maxOccurs="1">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element minOccurs="0" maxOccurs="unbounded" name="ANNOUNCEMENT">
+                <xs:complexType>
+                  <xs:all>
+                    <xs:element name="ANNOUNCEMENT_ID" type="xs:string" />
+                    <xs:element name="ANNOUNCEMENT_TYPE" type="xs:string" />
+                    <xs:element name="ANNOUNCEMENT_DESC" type="xs:string" />
+                    <xs:element name="ANNOUNCEMENT_CONTENT" type="xs:string" />
+                    <xs:element name="ANNOUNCEMENT_DISPOSITION" type="xs:string" />
+                    <xs:element name="ANNOUNCEMENT_TRACKID" type="xs:string" />
+					<xs:element name="ANNOUNCEMENT_RESERVE1" type="xs:string" />
+					<xs:element name="ANNOUNCEMENT_RESERVE2" type="xs:string" />
+					<xs:element name="ANNOUNCEMENT_RESERVE3" type="xs:string" />
+					<xs:element name="ANNOUNCEMENT_RESERVE4" type="xs:string" />	
+					
+                  </xs:all>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+
+
+        <xs:element name="MENU_DETAIL" minOccurs="0" maxOccurs="1">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element minOccurs="0" maxOccurs="unbounded" name="MENU">
+                <xs:complexType>
+                  <xs:all>
+                    <xs:element name="MENU_ID" type="xs:string" />
+					<xs:element name="MENU_TYPE" type="xs:string" />
+                    <xs:element name="MENU_DESC" type="xs:string" />
+					  <xs:element name="MENU_CONTENT" type="xs:string" />
+                    <xs:element name="MENU_STARTTIME" type="DateTime" />
+                    <xs:element name="MENU_ENDTIME" type="DateTime" />
+                    <xs:element name="MENU_OPTION" type="xs:string" />
+                    <xs:element name="MENU_OPTION_DESC" type="xs:string" />
+					<xs:element name="MENU_DISPOSITION" type="xs:string" />
+                    <xs:element name="MENU_TRACKID" type="xs:string" />
+                    <xs:element name="MENU_RESERVE1" type="xs:string" />
+                    <xs:element name="MENU_RESERVE2" type="xs:string" />
+                    <xs:element name="MENU_RESERVE3" type="xs:string" />
+                    <xs:element name="MENU_RESERVE4" type="xs:string" />
+                  </xs:all>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+
+        <xs:element name="HOST_DETAIL" minOccurs="0" maxOccurs="1">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element minOccurs="0" maxOccurs="unbounded" name="HOST">
+                <xs:complexType>
+                  <xs:all>
+                    <xs:element name="HOST_URL" type="xs:string"/>
+                    <xs:element name="HOST_STARTTIME" type="DateTime"/>
+                    <xs:element name="HOST_ENDTIME" type="DateTime" />
+                    <xs:element name="HOST_IN_PARAMS" type="xs:string"/>
+                    <xs:element name="HOST_OUT_PARAMS" type="xs:string"/>
+					<xs:element name="HOST_REFERENCE_ID" type="xs:string"/>
+					<xs:element name="HOST_RESPONSE" type="xs:string"/>
+					<xs:element name="HOST_TRACK_ID" type="xs:string"/>
+                    <xs:element name="HOST_RESERVE1" type="xs:string"/>
+                    <xs:element name="HOST_RESERVE2" type="xs:string"/>
+                    <xs:element name="HOST_RESERVE3" type="xs:string"/>
+                    <xs:element name="HOST_RESERVE4" type="xs:string"/>
+                  </xs:all>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+
+
+        
+        
+        
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <!--			USER DEFINED TYPES				-->
+  <xs:simpleType name="IPAddress">
+    <xs:restriction base="xs:string">
+      <xs:pattern value="\b(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\b"/>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="Required">
+    <xs:restriction base="xs:token">
+      <xs:minLength value="1"/>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="MenuCode">
+    <xs:restriction base="xs:token">
+      <xs:minLength value="1"/>
+      <xs:maxLength value="10"/>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="AppID">
+    <xs:restriction base="xs:token">
+      <xs:pattern value="1|2|3"></xs:pattern>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="Boolean">
+    <xs:restriction base="xs:token">
+      <xs:pattern value="Y|N"></xs:pattern>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="AbandonedFlag">
+    <xs:restriction base="xs:token">
+      <xs:pattern value="0|1"></xs:pattern>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="CallType">
+    <xs:restriction base="xs:token">
+      <xs:pattern value="N|T|C"></xs:pattern>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="Language">
+    <xs:restriction base="xs:token">
+      <xs:pattern value="ENG|ARA"></xs:pattern>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="DateTime">
+    <xs:restriction base="xs:string">
+      <xs:pattern value="([0-9]{2}\/[0-9]{2}\/[0-9]{4} [0-9]{2}:[0-9]{2}:[0-9]{2})"/>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="HostBoolean">
+    <xs:restriction base="xs:token">
+      <xs:pattern value="S|F|E|TO"></xs:pattern>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="Disposition">
+    <xs:restriction base="xs:token">
+      <xs:pattern value="CD|XA|ID|D"></xs:pattern>
+    </xs:restriction>
+  </xs:simpleType>
+</xs:schema>

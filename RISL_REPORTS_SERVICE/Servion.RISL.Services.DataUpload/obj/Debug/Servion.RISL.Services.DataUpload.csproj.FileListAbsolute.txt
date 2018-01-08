@@ -1,0 +1,27 @@
+D:\Servion Projects\RISL\RISL_IN1_18_0066_01\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataUpload\bin\Debug\RISLDataReader.exe.config
+D:\Servion Projects\RISL\RISL_IN1_18_0066_01\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataUpload\bin\Debug\RISLDataReader.exe
+D:\Servion Projects\RISL\RISL_IN1_18_0066_01\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataUpload\bin\Debug\RISLDataReader.pdb
+D:\Servion Projects\RISL\RISL_IN1_18_0066_01\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataUpload\bin\Debug\log4net.dll
+D:\Servion Projects\RISL\RISL_IN1_18_0066_01\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataUpload\bin\Debug\RISLDataParser.dll
+D:\Servion Projects\RISL\RISL_IN1_18_0066_01\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataUpload\bin\Debug\Servion.CCA.DatabaseApplicationBlocks.dll
+D:\Servion Projects\RISL\RISL_IN1_18_0066_01\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataUpload\bin\Debug\Oracle.DataAccess.dll
+D:\Servion Projects\RISL\RISL_IN1_18_0066_01\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataUpload\bin\Debug\RISLDataParser.pdb
+D:\Servion Projects\RISL\RISL_IN1_18_0066_01\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataUpload\obj\Debug\Servion.RISL.Services.DataUpload.csprojResolveAssemblyReference.cache
+D:\Servion Projects\RISL\RISL_IN1_18_0066_01\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataUpload\obj\Debug\Servion.RISL.Services.DataUpload.UploadService.resources
+D:\Servion Projects\RISL\RISL_IN1_18_0066_01\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataUpload\obj\Debug\Servion.RISL.Services.DataUpload.UploadServiceInstaller.resources
+D:\Servion Projects\RISL\RISL_IN1_18_0066_01\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataUpload\obj\Debug\Servion.RISL.Services.DataUpload.csproj.GenerateResource.Cache
+D:\Servion Projects\RISL\RISL_IN1_18_0066_01\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataUpload\obj\Debug\RISLDataReader.exe
+D:\Servion Projects\RISL\RISL_IN1_18_0066_01\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataUpload\obj\Debug\RISLDataReader.pdb
+D:\Servion Projects\RISL Latest\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataUpload\bin\Debug\RISLDataReader.exe.config
+D:\Servion Projects\RISL Latest\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataUpload\obj\Debug\RISLDataReader.exe
+D:\Servion Projects\RISL Latest\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataUpload\obj\Debug\RISLDataReader.pdb
+D:\Servion Projects\RISL Latest\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataUpload\bin\Debug\RISLDataReader.exe
+D:\Servion Projects\RISL Latest\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataUpload\bin\Debug\RISLDataReader.pdb
+D:\Servion Projects\RISL Latest\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataUpload\bin\Debug\log4net.dll
+D:\Servion Projects\RISL Latest\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataUpload\bin\Debug\RISLDataParser.dll
+D:\Servion Projects\RISL Latest\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataUpload\bin\Debug\Servion.CCA.DatabaseApplicationBlocks.dll
+D:\Servion Projects\RISL Latest\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataUpload\bin\Debug\RISLDataParser.pdb
+D:\Servion Projects\RISL Latest\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataUpload\obj\Debug\Servion.RISL.Services.DataUpload.csprojResolveAssemblyReference.cache
+D:\Servion Projects\RISL Latest\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataUpload\obj\Debug\Servion.RISL.Services.DataUpload.UploadService.resources
+D:\Servion Projects\RISL Latest\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataUpload\obj\Debug\Servion.RISL.Services.DataUpload.UploadServiceInstaller.resources
+D:\Servion Projects\RISL Latest\DEVELOPMENT\COD\CCA\RISL_REPORTS_SERVICE\Servion.RISL.Services.DataUpload\obj\Debug\Servion.RISL.Services.DataUpload.csproj.GenerateResource.Cache

@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+  <configSections>
+    <section name="log4net" type="log4net.Config.Log4NetConfigurationSectionHandler, log4net" />
+    <section name="DataConfigSettings" type="MSMQ_RFService.DataConfigSettings, MSMQ_Service" />
+  </configSections>
+  <DataConfigSettings>
+    <AppConfigSettings>
+      <add ID="1" Name="IvrMain" XsdFile="IvrMainSchema.xsd" XsdValidationRequired="False" ThreadSleepRequired="False" QueueName=".\Private$\CallDataMsmq" />
+      <add ID="2" Name="CollectionMain" XsdFile="CollectionMainSchema.xsd" XsdValidationRequired="False" ThreadSleepRequired="False" QueueName=".\Private$\CallDataMsmq" />
+      <add ID="3" Name="RetailMain" XsdFile="RetailMainSchema.xsd" XsdValidationRequired="False" ThreadSleepRequired="False" QueueName=".\Private$\CallDataMsmq" />
+      <add ID="4" Name="CollectionMain" XsdFile="CollectionMainSchema.xsd" XsdValidationRequired="False" ThreadSleepRequired="False" QueueName=".\Private$\CallDataMsmq" />
+    </AppConfigSettings>
+  </DataConfigSettings>
+  <system.net>
+    <connectionManagement>
+      <add address="*" maxconnection="100" />
+    </connectionManagement>
+  </system.net>
+
+  <system.web>
+    <compilation debug="true" targetFramework="4.0" />
+    <httpRuntime maxRequestLength="2147483646" />
+    <webServices>
+      <protocols>
+        <add name="HttpGet"/>
+        <add name="HttpPost"/>
+      </protocols>
+    </webServices>
+  </system.web>
+  <appSettings>
+    <!--<add key="QueueName" value=".\Private$\TestMsmq"/>-->
+    <add key="Time" value="3000" />
+    <add key="TimeToReachQueue" value="2" />
+    <!--value should be seconds-->
+  </appSettings>
+  
+  <system.serviceModel>
+    <protocolMapping>
+      <add scheme="http" binding="webHttpBinding" />
+    </protocolMapping>
+    <bindings>
+      <webHttpBinding>
+        <binding name="httpBinding" maxBufferPoolSize="2147483646" maxReceivedMessageSize="2147483646" >
+          <readerQuotas maxDepth="2147483646" maxStringContentLength="2147483646" maxArrayLength="2147483646" maxBytesPerRead="2147483646" maxNameTableCharCount="2147483646" />
+          <security mode="Transport">
+            <transport clientCredentialType="None" />
+          </security>
+        </binding>
+      </webHttpBinding>
+
+    </bindings>
+    <services>
+      <service name="MSMQ_RFService.MsmqService" behaviorConfiguration="serviceBehaviors1">
+        <endpoint address="" binding="webHttpBinding" contract="MSMQ_RFService.IMsmqService" behaviorConfiguration="web" bindingConfiguration="httpBinding" ></endpoint>
+        <endpoint contract="IMetadataExchange" binding="mexHttpBinding" address="mex" />
+      </service>
+    </services>
+    <behaviors>
+      <serviceBehaviors>
+        <behavior name="serviceBehaviors1">
+          <!-- To avoid disclosing metadata information, set the value below to false and remove the metadata endpoint above before deployment 65535-->
+          <!--<serviceMetadata httpsGetEnabled="true"/>-->
+          <serviceMetadata httpsGetEnabled="true" />
+          <!-- To receive exception details in faults for debugging purposes, set the value below to true.  Set to false before deployment to avoid disclosing exception information -->
+          <serviceDebug includeExceptionDetailInFaults="false" />
+
+          <!--<serviceThrottling maxConcurrentCalls="10" maxConcurrentInstances="10"/>-->
+          <!--To avoid disclosing metadata information, set the value below to false and remove the metadata endpoint above before deployment-->
+
+          <dataContractSerializer maxItemsInObjectGraph="2147483646" />
+        </behavior>
+      </serviceBehaviors>
+      <endpointBehaviors>
+        <behavior name="web">
+          <webHttp helpEnabled="true" />
+        </behavior>
+      </endpointBehaviors>
+    </behaviors>
+    <serviceHostingEnvironment multipleSiteBindingsEnabled="true" />
+  </system.serviceModel>
+  <system.webServer>
+    <modules runAllManagedModulesForAllRequests="true" />
+    <directoryBrowse enabled="true" />
+  </system.webServer>
+  <log4net>
+    <!--All log messages will write in this file-->
+    <appender name="InfoRollingLogFileAppender" type="log4net.Appender.RollingFileAppender,log4net">
+      <!--Location for the log file.  -->
+      <param name="File" value="C:\Serviont\Msmq_Service\QueueData.log" />
+      <param name="AppendToFile" value="true" />
+      <!--Max file roll up property, once the file count reaches 5 , then last created will be replaced with new one-->
+      <param name="MaxSizeRollBackups" value="20" />
+      <!--Max size of one log file, if it crosses the limit then new file will be created-->
+      <param name="MaximumFileSize" value="10000KB" />
+      <param name="RollingStyle" value="Size" />
+      <param name="StaticLogFileName" value="true" />
+      <param name="Threshold" value="ALL" />
+      <layout type="log4net.Layout.PatternLayout,log4net">
+        <conversionPattern value="%date [%t] %p [%M] %-5level - %message%newline" />
+      </layout>
+      <filter type="log4net.Filter.LevelRangeFilter">
+        <levelMin value="INFO" />
+        <levelMax value="FATAL" />
+      </filter>
+      <filter class="log4net.Filter.DenyAllFilter" />
+    </appender>
+    <root>
+      <level value="ALL" />
+      <appender-ref ref="InfoRollingLogFileAppender" />
+    </root>
+  </log4net>
+
+</configuration>

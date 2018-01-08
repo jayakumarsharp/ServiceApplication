@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="D:\Kbank\Kbank_Service_Setup" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="Default Web Site/Service" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/MSMQ_Service.dll" publishTime="04/02/2014 13:24:48" />
+    <file relUrl="bin/log4net.dll" publishTime="08/17/2012 16:27:30" />
+    <file relUrl="Web.config" publishTime="04/02/2014 13:24:54" />
+    <file relUrl="bin/XSD/IvrMainSchema.xsd" publishTime="02/18/2013 19:02:04" />
+    <file relUrl="bin/MSMQ_Service.pdb" publishTime="04/02/2014 13:24:48" />
+    <file relUrl="MsmqService.svc" publishTime="12/18/2012 10:18:54" />
+    <file relUrl="Global.asax" publishTime="01/22/2013 09:28:02" />
+    <file relUrl="Dependency/log4net.dll" publishTime="08/17/2012 16:27:30" />
+  </publishProfile>
+</publishData>

@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="MSMQ_RFService.MsmqService" Factory="System.ServiceModel.Activation.WebServiceHostFactory" CodeBehind="MsmqService.svc.cs" %>
